@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Educoin-Learn-Earn-Redeem/static/css/main.44351feb.css",
-    "main.js": "/Educoin-Learn-Earn-Redeem/static/js/main.84082a81.js",
+    "main.js": "/Educoin-Learn-Earn-Redeem/static/js/main.ac9924fd.js",
     "index.html": "/Educoin-Learn-Earn-Redeem/index.html",
     "main.44351feb.css.map": "/Educoin-Learn-Earn-Redeem/static/css/main.44351feb.css.map",
-    "main.84082a81.js.map": "/Educoin-Learn-Earn-Redeem/static/js/main.84082a81.js.map"
+    "main.ac9924fd.js.map": "/Educoin-Learn-Earn-Redeem/static/js/main.ac9924fd.js.map"
   },
   "entrypoints": [
     "static/css/main.44351feb.css",
-    "static/js/main.84082a81.js"
+    "static/js/main.ac9924fd.js"
   ]
 }
