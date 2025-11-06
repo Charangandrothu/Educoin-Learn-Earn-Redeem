@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Educoinlogin/static/css/main.44351feb.css",
+    "main.js": "/Educoinlogin/static/js/main.84082a81.js",
+    "index.html": "/Educoinlogin/index.html",
+    "main.44351feb.css.map": "/Educoinlogin/static/css/main.44351feb.css.map",
+    "main.84082a81.js.map": "/Educoinlogin/static/js/main.84082a81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44351feb.css",
+    "static/js/main.84082a81.js"
+  ]
+}
