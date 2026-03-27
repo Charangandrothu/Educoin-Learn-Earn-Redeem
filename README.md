@@ -47,9 +47,6 @@ npm start
 - **Roll Number**: `2024001` (or any from 2024001 to 2024005)
 - **Password**: `password123`
 
-### Admin Login:
-- **Roll Number**: `admin`
-- **Password**: `admin123`
 
 ## 📁 Project Structure
 
