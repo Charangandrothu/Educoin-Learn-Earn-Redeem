@@ -44,8 +44,8 @@ npm start
 ## 🔐 Demo Credentials
 
 ### Student Login:
-- **Roll Number**: `2024001` (or any from 2024001 to 2024005)
-- **Password**: `password123`
+- **Roll Number**: `xx` (or any from 2024001 to 2024005)
+- **Password**: `xxxx`
 
 
 ## 📁 Project Structure
