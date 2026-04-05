@@ -1,8 +1,8 @@
-# 🪙 EduCoin – Learn, Earn & Redeem
+#  EduCoin – Learn, Earn & Redeem
 
 A web application prototype for a Community Service Project called "Quality Education". Students can log in, complete tasks, earn coins (Silver, Gold, Platinum), and redeem them for rewards.
 
-## 🚀 Features:
+##  Features:
 
 ### For Students:
 - **Login System**: Secure login using Roll Number and Password
