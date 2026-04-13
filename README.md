@@ -19,7 +19,7 @@ A web application prototype for a Community Service Project called "Quality Educ
 - **Redemption History**: View all redemption requests
 - **Leaderboard**: See top 10 students ranked by total coins
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **React.js** - Frontend framework
 - **React Router** - Navigation and routing
