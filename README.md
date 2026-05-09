@@ -6,7 +6,7 @@ A web application prototype for a Community Service Project called "Quality Educ
 
 ### For Students:
 - **Login System**: Secure login using Roll Number and Password
-- **Dashboard**: View coin balances and task progres
+- **Dashboard**: View coin balances and taskprogres
 - 
 - **Task Management**: Browse available tasks, start tasks, and mark them as completed
 - **Coin System**: Earn Silver, Gold, and Platinum coins for completing tasks
