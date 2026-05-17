@@ -4,7 +4,7 @@ A web application prototype for a Community Service Project called "Quality Educ
 
 ##  Feature
 
-### For Students:
+### For Students
 - **Login System**: Secure login using Roll Number and Password
 - **Dashboard**: View coin balances and taskprogres
 - 
